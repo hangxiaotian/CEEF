@@ -5,7 +5,7 @@ Xiaoning Liu, Hui Li*, Ce Zhu "Joint Contrast Enhancement and Exposure Fusion fo
 Real-World Image Dehazing". 
 This manuscript submitted to IEEE Transactions on Multimedia, Dec. 2020
 
-Note that: When removing the synthetic fog image, the parameters of gamma correction are selected as $\lamda = 1, 2, 3$
+Note that: When removing the synthetic fog image, the parameters of gamma correction are selected as $\gamma = 1, 2, 3$
 
 Edited by Xiaoning Liu.   
 
