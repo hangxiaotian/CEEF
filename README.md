@@ -1,7 +1,7 @@
 # CEEF
 This package contains the MATLAB code which is associated with the following paper:
 
-Xiaoning Liu, Hui Li, Ce Zhu* "Joint Contrast Enhancement and Exposure Fusion for
+Xiaoning Liu, Hui Li*, Ce Zhu "Joint Contrast Enhancement and Exposure Fusion for
 Real-World Image Dehazing". 
 This manuscript submitted to IEEE Transactions on Multimedia, Dec. 2020
 
