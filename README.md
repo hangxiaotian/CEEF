@@ -23,8 +23,10 @@ matlab demo.m
 - <img src="InputImages/buildings_input.png" width="350px"/> <img src="result/buildings_input_Proposed.png" width="350px"/>
 ### Nighttime image dehazing
 - <img src="NightTime/flickr10.bmp" width="350px"/> <img src="NightResults/flickr10_Proposed.png" width="350px"/>
-- <img src="NightTime/flickr20.bmp" width="350px"/> <img src="NightResults/flickr20_Proposed.png" width="350px"/>
+- <img src="NightTime/flickr20.bmp" width="350px"/> <img src="NightResults/flickr20_Proposed.png" width="350px"/> ">这里输入题注</div>
 
+## Image Editing
+The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The right is the denoised image by FFDNet
 
 References
 ----------
