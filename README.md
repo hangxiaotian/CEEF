@@ -19,7 +19,7 @@ matlab demo.m
 
 ## Real Image Dehazing
 ### Daytime image dehazing
-- <img src="InputImages/cliff_input.png" width="350px" alt="Input”/> <img src="result/cliff_input_Proposed.png" width="350px"/>
+- <img src="InputImages/cliff_input.png" width="350px" alt="图片名称" align=center/> <img src="result/cliff_input_Proposed.png" width="350px"/>
 - <img src="InputImages/buildings_input.png" width="350px"/> <img src="result/buildings_input_Proposed.png" width="350px"/>
 
 ### Nighttime image dehazing
