@@ -20,10 +20,10 @@ matlab demo.m
 ## Real Image Dehazing
 ### Daytime image dehazing
 - <img src="InputImages/cliff_input.png" width="350px"/> <img src="result/cliff_input_Proposed.png" width="350px"/>
-- <img src="InputImages/buildings_input.png" width="400px"/> <img src="result/buildings_input_Proposed.png" width="400px"/>
+- <img src="InputImages/buildings_input.png" width="350px"/> <img src="result/buildings_input_Proposed.png" width="350px"/>
 ### Nighttime image dehazing
-- <img src="NightTime/flickr10.bmp" width="400px"/> <img src="NightResults/flickr10_Proposed.png" width="400px"/>
-- <img src="NightTime/flickr20.bmp" width="400px"/> <img src="NightResults/flickr20_Proposed.png" width="400px"/>
+- <img src="NightTime/flickr10.bmp" width="350px"/> <img src="NightResults/flickr10_Proposed.png" width="350px"/>
+- <img src="NightTime/flickr20.bmp" width="350px"/> <img src="NightResults/flickr20_Proposed.png" width="350px"/>
 
 
 References
