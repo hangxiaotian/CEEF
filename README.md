@@ -1,5 +1,5 @@
 ## Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing
-Xiaoning Liu, Hui Li*, Ce Zhu
+*Xiaoning Liu*, Hui Li*, Ce Zhu
 
 This manuscript submitted to IEEE Transactions on Multimedia, Dec. 2020
 
