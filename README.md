@@ -19,8 +19,8 @@ matlab demo.m
 
 ## Real Image Dehazing
 * Real daytime dehazing
-- <img src="figs/palace.png" height="320px"/> <img src="figs/palace_HSCU.png" height="320px"/> 
-- [<img src="https://github.com/cszn/KAIR/raw/master/figs/denoising_02.png" height="256px"/>](https://imgsli.com/ODczMTc)
+
+
 
 
 References
