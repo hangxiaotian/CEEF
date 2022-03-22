@@ -4,7 +4,12 @@
 This paper is accepted by [IEEE TMM](https://ieeexplore.ieee.org/document/9537303).
 
 ## Testing set
+* [Daytime fog images](https://www.cs.huji.ac.il/w~raananf/projects/dehaze_cl/results/)
+* [Nighttime fog images](https://github.com/chaimi2013/MRP)
+* [Foggy Driving](http://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)
 
+## Evaluation Metric
+[Fog Aware Density Evaluator (FADE)](http://live.ece.utexas.edu/research/fog/index.html)
 
 ## Testing
 
