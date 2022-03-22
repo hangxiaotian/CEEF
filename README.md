@@ -21,7 +21,6 @@ matlab demo.m
 ### Daytime image dehazing
 
 - <img src="InputImages/cliff_input.png" width="350px"/><img src="result/cliff_input_Proposed.png" width="350px"/>
-
 - <img src="InputImages/buildings_input.png" width="350px"/><img src="result/buildings_input_Proposed.png" width="350px"/>
 
 ### Nighttime image dehazing
@@ -29,7 +28,8 @@ matlab demo.m
 - <img src="NightTime/flickr20.bmp" width="350px"/><img src="NightResults/flickr20_Proposed.png" width="350px"/> 
 
 ## Image Editing
-The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The right is the denoised image by FFDNet
+The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle is edited by Vivo. The right is edited by the proposed method.
+- <img src="ImageEditing\Input\Before_editing.jpg" hight="400px"/><img src="ImageEditing\vivo_sample.jpg" width="350px"/>
 
 References
 ----------
