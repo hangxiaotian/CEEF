@@ -29,7 +29,7 @@ matlab demo.m
 
 ## Image Editing
 The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle is edited by Vivo. The right is edited by the proposed method.
-- <img src="ImageEditing\Input\Before_editing.jpg" hight="400px"/><img src="ImageEditing\vivo_sample.jpg" hight="400px"/>
+- <img src="ImageEditing\Input\Before_editing.jpg"/><img src="ImageEditing\vivo_sample.jpg"/>
 
 References
 ----------
