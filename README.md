@@ -20,16 +20,16 @@ matlab demo.m
 ## Real Image Dehazing
 ### Daytime image dehazing
 
-- <img src="InputImages/cliff_input.png" width="400px"/><img src="result/cliff_input_Proposed.png" width="400px"/>
+- <img src="InputImages/cliff_input.png" width="350px"/><img src="result/cliff_input_Proposed.png" width="350px"/>
 - <img src="InputImages/buildings_input.png" width="400px"/><img src="result/buildings_input_Proposed.png" width="400px"/>
 
 ### Nighttime image dehazing
-- <img src="NightTime/flickr10.bmp" width="400px"/><img src="NightResults/flickr10_Proposed.png" width="400px"/>
-- <img src="NightTime/flickr20.bmp" width="400px"/><img src="NightResults/flickr20_Proposed.png" width="400px"/> 
+- <img src="NightTime/flickr10.bmp" width="350px"/><img src="NightResults/flickr10_Proposed.png" width="350px"/>
+- <img src="NightTime/flickr20.bmp" width="350px"/><img src="NightResults/flickr20_Proposed.png" width="350px"/> 
 
 ## Image Editing
 The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle is edited by Vivo. The right is edited by the proposed method.
-- <img src="ImageEditing\Input\Before_editing.jpg" width="300px" /><img src="ImageEditing\vivo_sample.jpg" width="300px" /><img src="ImageEditing\Proposed.png" width="300px" />
+- <img src="ImageEditing\Input\Before_editing.jpg" width="250px" /><img src="ImageEditing\vivo_sample.jpg" width="250px" /><img src="ImageEditing\Proposed.png" width="250px" />
 
 References
 ----------
