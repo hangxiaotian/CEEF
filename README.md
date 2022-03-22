@@ -3,7 +3,7 @@
 
 This paper is accepted by [IEEE TMM](https://ieeexplore.ieee.org/document/9537303).
 
-## Testing set
+## Testing Set
 * [Daytime fog images](https://www.cs.huji.ac.il/w~raananf/projects/dehaze_cl/results/)
 * [Nighttime fog images](https://github.com/chaimi2013/MRP)
 * [Foggy Driving](http://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)
@@ -16,6 +16,13 @@ This paper is accepted by [IEEE TMM](https://ieeexplore.ieee.org/document/953730
 ```python
 matlab demo.m
 ```
+
+## Real Image Dehazing
+* Real daytime dehazing
+- <img src="figs/palace.png" height="320px"/> <img src="figs/palace_HSCU.png" height="320px"/> 
+- [<img src="https://github.com/cszn/KAIR/raw/master/figs/denoising_02.png" height="256px"/>](https://imgsli.com/ODczMTc) 
+[<img src="https://github.com/cszn/KAIR/raw/master/figs/denoising_01.png" height="256px"/>](https://imgsli.com/ODczMTY)
+
 
 References
 ----------
