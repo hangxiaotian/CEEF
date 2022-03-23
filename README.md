@@ -13,7 +13,9 @@ This paper is accepted by [IEEE TMM](https://ieeexplore.ieee.org/document/953730
 
 ## Testing
 
-```python
+```matlab
+git https://github.com/hangxiaotian/CEEF.git
+cd CEEF
 matlab demo.m
 ```
 
