@@ -2,12 +2,12 @@
   
 # CEEF
 **Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing**
-  [[paper link]](https://ieeexplore.ieee.org/document/9537303)
-
+  
     [[paper link]](https://arxiv.org/abs/2211.13202)
   
     Ning Zhang*, Francesco Nex, George Vosselman, Norman Kerle
   
+  [[paper link]](https://ieeexplore.ieee.org/document/9537303)
   **Xiaoning Liu**, Hui Li*, Ce Zhu
 
 <a href="#license">
