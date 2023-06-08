@@ -1,7 +1,12 @@
-## Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing
-**Xiaoning Liu**, **Hui Li***, Ce Zhu
+# CEEF
+**Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing**
+  [[paper link]](https://ieeexplore.ieee.org/document/9537303)
+  
+**Xiaoning Liu**, Hui Li*, Ce Zhu
 
-This paper is accepted by [IEEE TMM](https://ieeexplore.ieee.org/document/9537303).
+<a href="#license">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
+</a>
 
 ## Testing Set
 * [Daytime fog images](https://www.cs.huji.ac.il/w~raananf/projects/dehaze_cl/results/)
