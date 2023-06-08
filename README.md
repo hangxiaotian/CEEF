@@ -16,7 +16,7 @@
 - [Testing Set](#testing-Set)
 - [Evaluation Metric](#Evaluation-Metric)
 - [Testing](#Testing) 
-- [Real Image Dehazing](#Real-Image Dehazing)
+- [Real Image Dehazing](#Real-Image-Dehazing)
   - [Daytime image dehazing](#Daytime-image-dehazing)
 - [Single Image Test](#single-image-test)
 - [Evaluation](#evaluation)
