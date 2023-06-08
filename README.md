@@ -15,10 +15,9 @@
 ## Table of Contents
 - [Testing Set](#testing-Set)
 - [Evaluation Metric](#Evaluation-Metric)
-  - [KITTI](#kitti) 
-  - [Speed Evaluation](#speed-evaluation)
-  - [Robustness](#robustness)
-- [Data Preparation](#data-preparation)
+- [Testing](#Testing) 
+- [Real Image Dehazing](#Real-Image Dehazing)
+  - [Daytime image dehazing](#Daytime-image-dehazing)
 - [Single Image Test](#single-image-test)
 - [Evaluation](#evaluation)
 - [Training](#training)
