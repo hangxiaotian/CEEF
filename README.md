@@ -18,7 +18,7 @@
 - [Testing](#Testing) 
 - [Real Image Dehazing](#Real-Image-Dehazing)
   - [Daytime image dehazing](#Daytime-image-dehazing)
-- [Single Image Test](#single-image-test)
+  - [Nighttime image dehazing](#Nighttime-image-dehazing)
 - [Evaluation](#evaluation)
 - [Training](#training)
   - [Dependency Installation](#dependency-installation)
