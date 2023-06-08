@@ -4,7 +4,7 @@
 **Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing**
   [[paper link]](https://ieeexplore.ieee.org/document/9537303)
   
-**Xiaoning Liu**, Hui Li*, Ce Zhu
+  **Xiaoning Liu**, Hui Li*, Ce Zhu
 
 <a href="#license">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
