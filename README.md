@@ -12,6 +12,23 @@
 </a>
 </div>
 
+## Table of Contents
+- [Overview](#Testing Set)
+- [Results](#results)
+  - [KITTI](#kitti) 
+  - [Speed Evaluation](#speed-evaluation)
+  - [Robustness](#robustness)
+- [Data Preparation](#data-preparation)
+- [Single Image Test](#single-image-test)
+- [Evaluation](#evaluation)
+- [Training](#training)
+  - [Dependency Installation](#dependency-installation)
+  - [Start Training](#start-training)
+  - [Tensorboard Visualization](#tensorboard-visualization)
+- [Citation](#citation)
+
+
+
 ## Testing Set
 * [Daytime fog images](https://www.cs.huji.ac.il/w~raananf/projects/dehaze_cl/results/)
 * [Nighttime fog images](https://github.com/chaimi2013/MRP)
