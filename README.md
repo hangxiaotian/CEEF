@@ -13,18 +13,14 @@
 </div>
 
 ## Table of Contents
-- [Testing Set](#testing-Set)
-- [Evaluation Metric](#Evaluation-Metric)
-- [Testing](#Testing) 
-- [Real Image Dehazing](#Real-Image-Dehazing)
-  - [Daytime image dehazing](#Daytime-image-dehazing)
-  - [Nighttime image dehazing](#Nighttime-image-dehazing)
-- [Evaluation](#evaluation)
-- [Training](#training)
-  - [Dependency Installation](#dependency-installation)
-  - [Start Training](#start-training)
-  - [Tensorboard Visualization](#tensorboard-visualization)
-- [Citation](#citation)
+- [Testing Set](#testing-set)
+- [Evaluation Metric](#evaluation-metric)
+- [Testing](#testing) 
+- [Real Image Dehazing](#real-image-dehazing)
+  - [Daytime image dehazing](#daytime-image-dehazing)
+  - [Nighttime image dehazing](#nighttime-image-dehazing)
+- [Image Editing](#image-editing)
+- [References](#references)
 
 
 
@@ -58,7 +54,7 @@ matlab demo.m
 The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle is edited by Vivo. The right is edited by the proposed method.
 - <img src="ImageEditing\Input\Before_editing.jpg" width="250px" /><img src="ImageEditing\vivo_sample.jpg" width="250px" /><img src="ImageEditing\Proposed.png" width="250px" />
 
-References
+## References
 ----------
 ```BibTex
 @arctile{liu2021joint, % CEEF
