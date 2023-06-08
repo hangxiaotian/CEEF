@@ -9,6 +9,7 @@
 <a href="#license">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </a>
+</div>
 
 ## Testing Set
 * [Daytime fog images](https://www.cs.huji.ac.il/w~raananf/projects/dehaze_cl/results/)
