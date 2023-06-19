@@ -56,7 +56,7 @@ The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle
 - <img src="ImageEditing\Input\Before_editing.jpg" width="250px" /><img src="ImageEditing\vivo_sample.jpg" width="250px" /><img src="ImageEditing\Proposed.png" width="250px" />
 
 ## Third-party Usage and Experiments
-[03/06/2023] CEEF for Underwater image enhancement: [[UIE_CP](https://github.com/xiaoxuan98/UIE_CP/)]
+[03/06/2023] CEEF for Underwater image enhancement: [UIE_CP](https://github.com/xiaoxuan98/UIE_CP/)
 
 ## References
 ----------
