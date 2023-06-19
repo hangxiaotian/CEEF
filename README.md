@@ -56,6 +56,7 @@ The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle
 - <img src="ImageEditing\Input\Before_editing.jpg" width="250px" /><img src="ImageEditing\vivo_sample.jpg" width="250px" /><img src="ImageEditing\Proposed.png" width="250px" />
 
 ## Third-party Usage and Experiments
+[08/29/2021] CEEF for Under-water image enhancement: SwinIR
 
 ## References
 ----------
