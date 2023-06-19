@@ -20,6 +20,7 @@
   - [Daytime image dehazing](#daytime-image-dehazing)
   - [Nighttime image dehazing](#nighttime-image-dehazing)
 - [Image Editing](#image-editing)
+- [Third-party Usage and Experiments](#third-party-Usage-and-Experiments)
 - [References](#references)
 
 
@@ -53,6 +54,8 @@ matlab demo.m
 ## Image Editing
 The left is the sample image from [Vivo](http://gallery.vivo.com.cn/). The midle is edited by Vivo. The right is edited by the proposed method.
 - <img src="ImageEditing\Input\Before_editing.jpg" width="250px" /><img src="ImageEditing\vivo_sample.jpg" width="250px" /><img src="ImageEditing\Proposed.png" width="250px" />
+
+## Third-party Usage and Experiments
 
 ## References
 ----------
